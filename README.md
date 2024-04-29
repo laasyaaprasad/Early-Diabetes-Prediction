@@ -53,5 +53,41 @@ Soft Voting Classifier
 
 Soft voting involves adding up the probabilities of each prediction in each model and selecting the prediction with the highest total probability.
 
+<img width="202" alt="Screenshot 2024-04-29 at 9 49 58 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/91cdd7f7-e88f-4d51-9133-a47f9c5b9d6e">
+
+Important EDA : 
+
+Raw Data Distribution : 
+
+<img width="861" alt="Screenshot 2024-04-29 at 9 52 08 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/03ca950f-ac41-457b-b637-3eb95ef009a1">
+
+Feature Correlation : 
+
+<img width="863" alt="Screenshot 2024-04-29 at 9 54 08 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/610041e4-11a2-4576-bc6a-9799df6fc246">
+
+Accuracy Comparison : 
+
+<img width="245" alt="Screenshot 2024-04-29 at 11 25 43 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/9f67bcfc-9fe9-4aae-aba5-6f74965f1935">
+
+Plot : 
+
+<img width="293" alt="Screenshot 2024-04-29 at 11 26 16 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/483db732-2424-42dc-a9eb-e20bbb35cd5e">
+
+Precision Comparison : 
+
+<img width="254" alt="Screenshot 2024-04-29 at 11 27 05 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/ae09910e-c6ee-4784-8a29-7f040b6cbb34">
+Plot : 
+
+<img width="283" alt="Screenshot 2024-04-29 at 11 27 27 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/356fb263-faa0-468b-93fd-d4c089e3925d">
+
+Recall Comparison : 
+
+<img width="241" alt="Screenshot 2024-04-29 at 11 29 32 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/62ea773c-e273-4dae-ac5e-87826916b611">
+
+Plot : 
+
+<img width="287" alt="Screenshot 2024-04-29 at 11 31 38 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/2c03c43a-9b3d-4acb-bd0c-4de51961d859">
+
+
 
 
