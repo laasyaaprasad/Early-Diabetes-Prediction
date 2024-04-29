@@ -76,6 +76,7 @@ Plot :
 Precision Comparison : 
 
 <img width="254" alt="Screenshot 2024-04-29 at 11 27 05 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/ae09910e-c6ee-4784-8a29-7f040b6cbb34">
+
 Plot : 
 
 <img width="283" alt="Screenshot 2024-04-29 at 11 27 27 PM" src="https://github.com/laasyaaprasad/Early-Diabetes-Prediction/assets/75083241/356fb263-faa0-468b-93fd-d4c089e3925d">
